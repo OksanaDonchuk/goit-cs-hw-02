@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sites=("https://google.com" "https://facebook.com" "https://twitter.com")
 
 logfile="check.log"
